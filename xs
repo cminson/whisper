@@ -1,0 +1,1 @@
+ls ./transcripts/*.txt | wc
