@@ -1,0 +1,2 @@
+scp -i /Users/Chris/Documents/Keys/kakapo.pem  ./archive/*.txt  ubuntu@dreamperch.io:/var/www/dreamperch/httpdocs/data/transcripts
+
