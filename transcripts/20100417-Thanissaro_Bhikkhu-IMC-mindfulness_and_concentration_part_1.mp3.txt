@@ -1,0 +1,1383 @@
+The following talk was given at the Insight Meditation Center in Redwood City, California.
+Please visit our website at audiodharma.org.
+So I'd like to introduce our speaker today.
+We're really grateful for Tanjef to be here.
+I'm just going to read off of here and then you can embellish in any way that you want.
+So Tanjef has been a Theravada monk since 1976.
+He is currently the abbot of Meta Forest Monastery,
+a combined monastic and lay meditation community in San Diego County.
+He is the translator of Handful of Leaves,
+a five-volume anthology of selections from the Pali Suttas,
+the Dhammapada and many Thai meditation guides.
+He is also the author of Mind Like Fire Unbound and the Wings to Awakening,
+commentaries on discourses from the Pali Canon.
+So we'd like to welcome you.
+Before we get started, I'd like to make sure everyone has a copy of the readings.
+Today we're going to be talking about mindfulness and concentration.
+And you might ask why I talk about it, why not just do it?
+Because if you don't talk about it, you don't know what you're doing.
+Right mindfulness and right concentration are two factors of the path
+whose relationship has become problematic, at least in modern discussions of the topic.
+A lot of the problems rest on definitions,
+and the definitions in turn rest on how we perceive two different kinds of activities.
+The first activity is the role the mind plays in relationship to its experience.
+In particular, the role it plays in creation of suffering.
+And then the second activity is the way in which the path of practice works
+within the mind's functioning in order to put an end to suffering and stress.
+So those are the two activities that we want to sort of set forth first
+before we understand the role that mindfulness and concentration play in the path.
+In other words, we have to understand how do you process your experience,
+to what extent are you processing your experience,
+or are you simply just on the receiving end of a given when you're experiencing contact at the senses?
+And then secondly, when you're practicing the path, exactly what are you trying to do?
+And how does the practice of the path relate to the way the mind processes experience?
+So we'll be getting to that in a minute, but first I'd like to make a couple of requests.
+Basically is to forget what you've heard about mindfulness and concentration,
+because you're going to be hearing some new things today.
+With regard to the word mindfulness, this factor particularly has been shaped
+by reading the Siddhipatana Sutta, which is the main source of the Buddha's teachings
+in the Pali canon on this topic.
+But it turns out it's not the only source, there are a lot of other teachings as well
+that shape the way the Buddha uses the word mindfulness
+and how he talks about the different aspects of the practice around mindfulness.
+And then of course the word mindfulness has been cut loose from its moorings
+and the Buddhist tradition has moved into other fields as well.
+We have mindfulness-based stress reduction, mindfulness-based cognitive therapy,
+mindfulness-based dialectical cognitive therapy,
+and it gets further and further away from what the Buddha was talking about.
+So you've probably heard mindfulness discussed in many different contexts.
+There's mindful investing.
+That's just the start of it.
+So one of the projects today will be to read some sutras in the canon
+to create a larger context for understanding the term,
+so we're not just looking at the one sutra, but we're looking at many different passages in the canon.
+And we'll feed that as we look at the original context of the word,
+we're going to find some unexpected things.
+So as I said, for the purpose of this morning's discussion,
+I want you to put aside for the time being whatever you've heard about the word mindfulness
+and try to bring fresh eyes to the text, similar with the word concentration.
+Although we're here, the problem around concentration draws largely from the fact
+that when the canon is talking about right concentration
+and when the commentaries are talking about right concentration,
+they're talking about two different things.
+So lots of different views as to what constitutes true right concentration.
+And so then when you add in the different opinions about mindfulness,
+which have many different definitions,
+and concentration which has many different definitions,
+we're going to have a lot of compounded problem
+that's exactly sorting out how these two factors are supposed to relate.
+Particularly when you see that...
+I was reading in one text or one book recently about mindfulness,
+which is really try to extrapolate mindfulness as a particular path in and of itself
+separate from the other factors of the full path.
+Saying that the practice of right mindfulness is very different from the practice of right effort.
+These are two different ways of approaching the path.
+And also that the practice of right mindfulness is very different from the practice of right concentration.
+This particular author was saying we have to have a very distinct way of defining mindfulness and concentration
+because the Buddha, of course, uses different words for the two things.
+But, and it's a common tendency to go on to say there are two radically different things.
+In some cases so radically different, they're actually antithetical.
+Mindfulness gets defined as a broad receptive state of mind
+and concentration as a narrow and kind of closed down clamped down state of mind.
+And the question is how do these two relate?
+They're two opposite ends of the spectrum.
+And it's hard to see that these two minds, these mind states could function together.
+Or as explained repeatedly in the sutras, how mindfulness could lead to concentration
+and act as the theme of concentration.
+Because when we look at the canon, the two qualities, mindfulness and concentration, always working together.
+So, one again, when we get to the topic of right concentration and particularly jhana
+and to the relationship to mindfulness, I want to put aside what you've heard
+and just try to bring fresh eyes to the text.
+So, those are my requests.
+As for looking at how the Buddha defines experience,
+and this is going to be kind of the basic framework for trying to understand how the Buddha teaches the path,
+he has a very particular way of looking at the way we relate to our experience,
+the basic sensory experience all the time.
+If I had had enough paper to print out everything that was going to be relevant to this topic,
+it would have been a lot more than that.
+So, some of the passages I'll just tell you about, and some of them we'll actually look at.
+Particularly, it's important if you're going to understand the Buddha's understanding of experience
+to look at dependent core rising.
+And that, of course, would be a whole weekend right there, just to get started on the topic.
+But there's one fact I'd like you to keep in mind.
+If you've ever looked at the factors of dependent core rising,
+the six spheres of sense-contact come in that.
+Do they come at the beginning? Do they come at the middle of the end?
+They come in the middle.
+Because it's a lot that happens before a sight strikes your eye,
+or a sound strikes your ear.
+The mind has already processed things quite a bit already,
+and is preparing to process its sensory experience.
+So there's a lot that's building up to it already.
+First, and what this means is your experience of the world
+is not shaped so much by your sensory experience,
+but by what you bring to your sensory experience.
+And particularly the qualities of what the Buddha calls intention and fabrication.
+And fabrication is going to be one of the big topics for our discussion throughout the day.
+First, I'd like you to look at passage number one,
+to see the Buddha's definition of the word world.
+Now when we think of the word world, we're thinking about what exists outside us out there.
+But the Buddha never comes down on the question of whether there is something out there behind our experience,
+or there's nothing out there behind our experience.
+You know, the old question between realists and idealists.
+The question in the Western philosophy has been,
+okay, we have these sensory experiences.
+Do we know if there's anything that lies behind them,
+or is this totally a product of our mind?
+And the Buddha says, I don't want to go there.
+But I do want you to look at what is, how do you experience the world?
+And he defines it in very simple terms.
+Certain monk went to the blessed one,
+and on arrival, having bowed down to him, sat to one side.
+As he was sitting there, he said to the blessed one,
+the world, the world, it is said.
+And what respect does the word world apply?
+And the Buddha's answer is this,
+insofar as it disintegrates lujjati.
+There's a pun here between loga and lujjati.
+It is called the world.
+Now, what disintegrates?
+The eye disintegrates, forms disintegrate,
+eye consciousness disintegrates, eye contact disintegrates.
+And whatever there is that arises,
+independence on eye contact experiences,
+pleasure, pain, or neither pleasure nor pain,
+that too disintegrates.
+And it goes through and says the same about the other senses,
+the ear, the nose, the tongue, the body, and the intellect.
+This, according to him, is the world.
+He's not going to talk about the world out there,
+but he is going to talk about the world of your sensory experience.
+And so when we get into the basic reframe on mindfulness,
+when he says, putting aside greed and distress
+with reference to the world,
+it means with reference to this area of your experience.
+Sights, the fact that you have these senses,
+the things you sense through them,
+and whatever arises, independence on them.
+Consciousness, experiences, pain, pleasure, pain,
+or neither pleasure nor pain.
+When the Buddha uses the word world, that's what he means.
+Now this experience of the world is shaped by our fabrication.
+If you were to go through the factors of independent chorizing,
+you start out with ignorance, ignorance of the formidable truths.
+And then it goes into a factor called fabrication.
+Now fabrication is of three kinds.
+There's bodily fabrication, which is the breath.
+There's verbal fabrication, which is directed thought and evaluation.
+Like when you direct your thoughts to something,
+and valuation is what you think about it.
+If you think about this in terms of grammar,
+directed thought is like posing a subject for the sentence,
+and then the remainder of the sentence would be the evaluation.
+Or if you ask questions about it, that would also be evaluation.
+And then finally, mental fabrication, which is perception and feeling.
+Now these things are called fabrication because they have a creative aspect to them.
+A lot of your sense of the body is actually created by the way you breathe.
+The way you're going to frame your speech is created by the things that you focus your thoughts on
+and the things that you, the evaluations you make of the things that you're focusing your thoughts on.
+And your mind states are going to be shaped by your perceptions.
+And perception here means basically mental label.
+Like if you look at this, you know, you see this and something in your mind says Buddha image.
+You look at that and it says speaker.
+It says look at this, it says flower.
+That's what they mean by perception.
+It's that the word or the sign or the image that you place on things.
+Okay, from these three different kinds of fabrication, then your basic consciousness arises.
+From consciousness, you're aware of name and form.
+Now name and form cover physical events in the body and also that's the form part.
+And the name part is more mental events.
+And some of the mental events are repeats of the fabrication.
+You have perception and feeling again.
+And they also have intention and attention.
+Of course, is the way you will things, the choices you make, the things you will.
+And attention is the things that you pay attention to and as opposed to the things that you're going to ignore.
+Based on name and form, you have the six senses and based on the six senses, you have contact.
+And that's where you meet up with the world.
+So all this is happening before you're approaching your experience of the world.
+And so notice already, you've got different perceptions.
+You've got different ideas functioning prior to your sensory contact.
+So that's going to shape the way you receive contact.
+Sometimes they talk about meditating and trying to develop bare awareness at the contact.
+Well, an awful lot of things have happened to shape that awareness even prior to the initial contact.
+That's an important part.
+If you're going to underline any note in your notes today, underline that one.
+A lot happens before your bare awareness of things.
+So it's not really bare.
+It's already been dressed up.
+And then it's from the basic sensory contact that you have feelings and clinging,
+the clinging, craving, at least a clinging leads to states of becoming.
+The word state of becoming, or bhava here, is also going to be important in the course of today's discussion.
+And bhava here means your sense of who you are in a particular world of experience.
+And your identity, or your sense of who you are, usually revolves around a particular desire.
+Think about this.
+You have many different senses of you as you go through the course of the day,
+based on the many different desires you have.
+If you have a desire for a cookie, all of a sudden the you that was interested in sitting here
+and listening about dependent core rising or mindfulness and concentration goes out the window.
+And the you who really wants that cookie.
+And the you who starts strategizing, how can I slip out of this room without anybody seeing me?
+And come back with a cookie and have nobody notice what I did.
+That kind of you comes into play.
+And then you drop that you, and then you come back to the you that wants to listen about mindfulness and concentration.
+This happens many times in the course of the day.
+And notice also that once you have a particular desire, different aspects of the world are going to stand out for you.
+Like all of a sudden, you know, where is the clear nearest cookie house?
+That becomes an important part of your world.
+Or as they say, you know, an alcoholic walks into the house and they know very quickly where the alcohol is kept in the house.
+Now, I walk into the house. I have no idea where alcohol is kept because that's not one of my my interests.
+I'm more of a chocoholic.
+I find it very quickly where the chocolate is.
+But so we're here. We're talking about when you talk about bhava or becoming.
+This is what they're referring to is your particular sense of who you are and what parts of the world are relevant.
+Send it around a particular craving or desire.
+And so what and the Buddha says this bhava, the state of becoming is suffering.
+There's clinging there. There's everything there that would lead to suffering.
+And so what we're going to try to do is part of the practice is to learn how to get past that the way the mind creates these things.
+But the only way you're going to get past it is by also creating another sense of becoming, the you that wants to practice the path.
+Because without that you, without those practices, without those desires, the path is not going to happen.
+Because the path itself is a fabric, kind of fabrication.
+So the mind brings fabrication to its experience, but in order to cure the way it brings fabrication to experience,
+you're going to have to learn how to fabricate in a new way.
+You can't just say, OK, I'm just going to drop fabrication, drop my reactivity and be done with it.
+You have to learn how to bring a new kind of fabrication to your senses, a new kind of fabrication to the sense of you that you create in terms of the relevant world.
+So all of these are defined as processes. The world is a process from the Buddha's point of view.
+Again, he's proposing these things. He doesn't want to get into a philosophical discussion as to whether that's the ultimate reality about the world.
+But he says, for the sake of putting it into suffering, learn to look at things as processes.
+Learn how to develop new processes that will lead you to a point where you can finally let go of the activity of fabrication.
+Because you can't just stop willy-nilly. You have to get the mind in the right spot before it's really ready to let go in a way that's totally honest and open.
+So as I said, the path is the process of creating a state of becoming from which the process of fabrication can be watched as they occur.
+Because you're not going to understand fabrication until you get the mind very still and can see these sort of pre-sensory functions going on.
+In order to do that, you have to get the mind very still. To get the mind very still requires an act of will and all the other factors of the path.
+So we're going to learn about the way the mind fabricates its sense of reality by creating a more skillful kind of fabrication.
+Then from that more skillful fabrication, you can look at all the other unskillful ways that you've been fabricating reality.
+When you've taken care of those, you begin to see that you don't want to go there because they're just automatically going to incur suffering.
+When it's done that duty, then you turn around that original process of fabrication of the path, take that apart, and then you're totally free.
+So that's the Buddhist understanding about how all this is going to work.
+So what you have to do is bring knowledge to the way we shape fabrications that we bring to the world.
+Because the ones that are fabricated under ignorance, those are the ones who cause suffering.
+The ones that are fabricated through knowledge can be a path to the end of suffering.
+So our first lesson is that we're trying to understand this active role of the mind in shaping this experience.
+And also the active role in the path in creating a spot in experience where you can stop and look at everything else in a way that you can finally take it apart.
+So all the factors of the path, including right view, right mindfulness, and right concentration are active means for creating a state of coming that fits the bill.
+It allows you to get the mind in a state where it's still enough so you can see these processes and learn how to see how the processes automatically incur suffering so that you can finally let them go.
+And then when you've done your job of sort of taking care of the rest of the territory, then you turn and you start deconstructing the spot you've been standing on.
+And that's when the end of suffering comes about.
+Any questions about that sort of picture of experience in the picture of the path? And we have traveling mics here.
+It says in the first reading here, insofar as it disintegrates, it's called the world, and it talks about the sense of experience.
+Thank you.
+But the things that happened before sense experience also disintegrates.
+They also disintegrate.
+Fabrications and ignorance.
+Are those then not part of the world?
+Those are...
+For the purpose of the Buddhist discussion, it's the sense experience that's the world.
+Now, of course, what happens prior to that are things that you know through the mind.
+So ultimately it comes back.
+You're talking about which part of the world has an effect on your direct sensory experience.
+But you cannot have an experience of the world without your intentional participation.
+That's what the Buddha is saying.
+His fabrication starts right on top of ignorance.
+So it's not the case that you're sitting here as...
+The main sort of misunderstanding that I'm trying to address here is the misunderstanding that you're a totally passive recipient of sense impressions, which you then react to.
+And here's the Buddha saying, no, you actually go out and you're seeking certain experiences and seeking to divine things in a certain way.
+And that shapes the way you're going to be experiencing the world.
+Steven Pinker says about the tabula rasa theory.
+The tabula is not so rasa.
+It's not so rasa.
+No, the tabula is out there actually grabbing after things.
+And I think it's easier for people now, now that we're playing computer games, to see things in this way.
+My generation was brought up on TV and we were pretty passive, right?
+You had three flavors, NBC, ABC, CBS, and that was it.
+You didn't have much choice.
+And they didn't respond to what you said.
+Whereas if you're playing computer games, you can actually determine which level you're going to play on, who's going to do what.
+You have a more active role in shaping your experience.
+So the Buddha is more into a computer game mode here.
+It's in the TV mode.
+Any other questions?
+What's the you that's going out in the beginning?
+The question is what's the you that's going out in the beginning?
+The Buddha asks you to identify it as a you.
+He asks you to look at it and see what process of fabrication is going on.
+So you learn to look at it as fabrication.
+It's only fabrication then.
+He's saying for the purpose of putting into suffering.
+Later discussion.
+Later discussion, yeah.
+No, it's not later. It's right now.
+For the purpose of putting into suffering, just simply look at it as fabrication, as a process.
+Again, it's a question of whether there is a you or there is no you back there.
+He doesn't get involved in that.
+Simply look at the processes as processes without asking if there's any sort of metaphysical substrate.
+He's not affirming there is.
+He's not denying that there is.
+He's just saying don't look at it in those terms.
+Okay, let's move on to the readings.
+So I've already mentioned the process of fabrication here.
+Passage number two points out that our experience of what they call the aggregates, form, feeling, perception, fabrication and consciousness has an element of all of all the aggregate aggregates have an element of fabrication in them.
+The fact that you're experiencing them is partly the result of the fact that you want to use them for something or there is the desire to use them for something.
+So for the sake of formness, these fabrications fabricated form is a fabricated thing.
+In other words, when you need a piece of the body to do something, your mind is going to fabricate the potential for that experience into an actual experience.
+You might look at this in terms of the Buddhist teachings on karma.
+You've got the results of past karma coming in and then there's a question of what are you going to do with those results?
+It's not like you have one past karma coming in per second.
+You've got lots of possibilities that you choose from.
+From those different possibilities and you would choose and you say you're sitting here and you're thinking about how you want to do a mathematical problem.
+You're not at that point really concerned about your hands.
+So that part of your experience is going to go back to the background and get very vague.
+All of a sudden you have an itch and then the hand becomes very relevant.
+Then you have this potential for a hand that you actually focus on and then you use the hand to scratch.
+The same thing happens with feelings.
+There are a lot of feelings that go on in your body that you're not noticing.
+Feelings that go on in your mind that you're not noticing.
+But every now and then you have the desire to focus on any one of them for some purpose or another.
+And so all of a sudden that turns into a full feeling.
+And the same with perceptions.
+There are potentials for perceptions.
+There's potential for consciousness, some of which we activate and a lot of which we don't.
+And it's the process of fabrication that goes into those that actually activates them for the purposes that we want to use them for.
+I don't know why.
+It's every time I get to this point in a discussion I think of a science fiction story I read one time.
+They were working on a, what do they call that?
+When you transport someone from one spot to another spot.
+A teleporter.
+They were working on a teleporter.
+And they were working through the bugs, you know.
+You can imagine what the bugs were working on a teleporter might be.
+And this particular bug was that your skeleton went slower than the rest of your body.
+And so at the receiving end of the teleporter, at that point they'd already had a colony on the moon.
+They'd had this big bowl.
+And they would send a little rabbit up through the teleporter and this little pool of rabbit would come out.
+And then maybe 15 minutes later the skeleton would come in and the rabbit would kind of form around its skeleton and be okay.
+And so in the meantime it was 15 minutes there as a pool.
+And they discovered that their little rabbits would actually try to move around as they were in the pool.
+And they would kind of shape themselves into these big shapes so they could slip over the ball and other things.
+And at any rate, there's this one guy down earth who needed to get a contract signed right away.
+And so he flocks the scientists on this side to put him in the teleporter.
+And they warn the people up on the moon, you're going to be a big bowl.
+And so all of a sudden this pool of this guy comes in.
+And then you see an eye appearing on top of it with a cigarette, a cigar coming out.
+And then this hand, a vague hand shape with the contract coming out of the pool.
+And every time I think about how we tend to have a very vague sense of our body until we need that particular part of the body
+and then it forms into something articulate, that's the image I have.
+So what the Buddha is saying here is that in this passage 2 he's saying that there are these potentials for the different aggregates
+and then we have particular purposes that will need a particular form or a particular feeling or a particular perception.
+And we take that potential and we actually turn it into an actual experience of the aggregate.
+So we've got lots and lots of potentials that we're working with here.
+And then we fabricate from those potentials into what our actual experience is.
+And then passage 3 is basically what I mentioned just now about the three different kinds of fabrication, bodily, verbal and mental.
+The role of the breath in shaping your body.
+You'll find as you get into deeper states of concentration, when the in and out breathing stops, your sense of the body begins to disappear.
+Because it's the movement of the breath energy that actually maintains that sense of the body that you have.
+And if you can will yourself into a state where the breath in and out breathing is no longer needed, and we can talk about that in a minute,
+you'll find that your sense of the body begins to get very vague, sort of the boundaries begin to disappear.
+And similar things go to verbal fabrications and mental fabrications.
+You've many, many times been trying to find the right word for something and you know that it's there someplace
+and it's kind of hovering around in your mind, but you don't really think of it until you need it.
+And many times you need it and you still can't think of it.
+I'm finding that happening more and more now.
+So the picture the Buddha gives of our experience is there are lots of potentials out there which do not become actualized
+until you actually develop a desire and develop an intention around them.
+And that's what's going to actualize your experience.
+Now this is important because it means that in a very radical way
+you would not have any experience of the present moment unless there was an intentional element.
+If there's no intentions operating at all in the present moment, you're not going to experience the present moment.
+And this is why people can get awakening.
+But we can talk about that later.
+Okay, let's go into the Buddha's definitions and analogies for mindfulness.
+Okay, the first one, passage four.
+Just as a frontier, royal frontier fortress has a gatekeeper.
+Why is experienced intelligent?
+To keep out those he doesn't know and to let in those he does.
+For the protection of those within and to ward off those without.
+The same way a disciple of the Nova Ones is mindful, highly meticulous, remembering and able to call to mind
+even things done and said long ago.
+With mindfulness as a gatekeeper, here's our gatekeeper, the disciple of the Nova Ones abandons what is unskillful,
+develops what is skillful, abandons what is blameworthy, develops what is blameless,
+and looks after him or herself with purity.
+Now there's a lot in that analogy which goes against many things we've heard about mindfulness.
+One is that you've got a gatekeeper here who's keeping some people in and lighting other people in.
+I'm keeping some people out and letting other people in.
+Mindfulness can be choosy.
+One of the functions of mindfulness is being able to remember and to call to mind
+even things that were done and said long ago.
+Now in Sanskrit the word sati or their word sati is smirti actually means to remember.
+It's the ability to remember.
+And so this is the primary meaning of mindfulness in a polytext as well,
+is the ability to remember, the ability to keep something in mind.
+And what it keeps in mind for the purpose of the path is what's skillful and what's unskillful
+so that you can then abandon what's unskillful and develop what is skillful.
+So mindfulness here does not function in an all-encompassing and all-accepting way.
+Mindfulness one is not, and also it's not just awareness of the present moment.
+It's the ability to keep certain things in mind from the past.
+Whatever is relevant to keep in mind from the past particularly with regard to the issue of what's skillful and unskillful.
+So that's your guide.
+So in this way mindfulness acts as a monitor.
+In other words it keeps in mind what you really need to know in order to function properly on the path.
+And then when you see that something is unskillful, mindfulness then alerts you the fact this is unskillful.
+You remember that because you've learned the basic patterns for this kind of behavior is unskillful.
+You've got to watch out for it.
+Once you've been alerted to the fact then you can abandon it.
+So mindfulness is what keeps you basically keeps your wits about you so you can act in the skillful way on the path.
+One teacher locally exposed us to some material, it's a Abhidharma interpretation that mindfulness is only wholesome.
+If you're detecting anger or so and you have to do something to make it mindful, is that compatible with this?
+Well actually the Buddha does talk about wrong mindfulness.
+Wrong mindfulness?
+Yes, which would be unwholesome.
+And this is one of the places where the Abhidharma differs from the suttas.
+But in the suttas the proper role of mindfulness as an element on the path is to keep in mind what's skillful.
+Discernment.
+I mean again we're dealing with many factors of the path.
+We're not just going to do a path of right mindfulness.
+Because right view and right resolve have already sort of determined how you're going to look at things and what basically you're going to will.
+The right mindfulness keeps that in mind to apply it to a particular situation you're facing.
+Because the right view teaches you you've got to look at where the causes of suffering, where is the suffering, what are the causes?
+The causes have to be abandoned.
+What's the path to the end of suffering?
+Those factors have to be developed.
+Mindfulness, one of the things that mindfulness is keeping in mind.
+And then you use that to judge a particular situation.
+And so whether this particular mind state is skillful or is this particular mind state unskillful?
+Always keeping it on course.
+It's to keep you on course.
+It's kind of like the navigator who's got the map.
+It's okay, this is the map.
+This is where we're supposed to be going.
+It's kind of like a GPS.
+The GPS has the map and it's telling you you missed your turn, you missed your turn.
+And then after a couple of yards it gives up.
+So what's unusual about this in terms of what we've often heard and we've often heard that mindfulness is non-judge metal.
+Mindfulness is actually one of the faculties that helps us to judge what's skillful and what's not.
+Because we've remembered from the past what we've heard and what we've experienced.
+This kind of behavior is unskillful, this kind of behavior is skillful.
+Keep that point in mind.
+That's what mindfulness is.
+This goes on to passage five.
+What is the faculty of mindfulness?
+There's a case where a monk, a disciple, a noble one is mindful and highly meticulous, remembering able to call to mind even things that were done and said long ago.
+It reestablishes the fact that mindfulness is about your ability to keep things in mind, to remember things.
+And in doing so, you remain focused on the body in and of itself, ardent, alert and mindful, putting aside greed and distress with reference to the world.
+You remain focused on feelings in and of themselves, the mind in and of itself, mental qualities in and of themselves.
+Ardent, alert and mindful, putting aside greed and distress with reference to the world.
+That is called the faculty of mindfulness.
+There are a lot of terms here that we've got to look at.
+One, you remain focused on.
+The Pali term here is anupasi.
+Pasi means someone who's looking or watching, and anup means to follow.
+So you're keeping track of things.
+You keep focused on these things.
+Follow them and watch their behavior.
+You're ardent, alert and mindful, ardent.
+The Pali word is atapak.
+And the commentary, and here's one area where I think the commentary really is right, says,
+well, this is the element of right effort.
+You're trying to bring right effort to what you're doing.
+Now, right effort includes a lot of discernment already.
+Because right effort, you remember, is basically generating desire to abandon what is unskillful,
+not to take up what is unskillful things that have not yet arisen.
+If something skillful has not arisen, you try to give rise to it.
+Once something skillful has arisen, you try to keep it going and let it grow.
+So those are four basic functions you've got to do, or that you can choose from.
+You're preventing unskillful things, letting go of unskillful things that have arisen,
+giving rise to skillful qualities and also abandoning, excuse me, developing those skillful qualities.
+That right there involves an element of discernment to see what's skillful and what's not.
+And to know that you've got four different possible approaches to any present moment,
+any situation in the present moment.
+There are things you're going to have to prevent, things you're going to have to abandon,
+things you're going to have to give rise to, and things you're going to have to maintain and develop.
+On top of that, then there's the level of effort that's appropriate.
+You know the story about the monk who was doing walking meditation until his feet got all bloody.
+And he sits down and thinks, oh gosh, I'm never going to get anywhere here.
+My feet are bloody. I haven't gotten anywhere in the practice.
+And maybe I should just robe.
+And immediately the Buddha off some other place on Vulture Peak senses that this monk is thinking of disrobing.
+And so the Buddha comes and appears right in front of him.
+Wouldn't that be convenient if you could just...
+You're having problems in your meditation. The Buddha just kind of shows up and says,
+I see you have a problem here.
+And so then the Buddha says, are you thinking of disrobing?
+And the monk says, yes, I'm afraid so.
+And so the Buddha reminds him, well back when you were a layperson, did you play the lute?
+Yes, you played the lute.
+Now when the strings were too tight, did the lute sound good?
+Well, no. When the strings were too loose, did they sound good? No.
+So you have to tune them so they're just right.
+You said in the same way you try to adjust your level of effort to what you can do.
+And then you adjust the other five faculties.
+It's like having five strings in your lute.
+You tune one of the strings and then you tune the other four strings to that first string.
+So in this case you tune your string of how much effort you can put into it.
+And then you develop your conviction and mindfulness concentration and discernment around that.
+So they all work together.
+And that's one thing that you have to keep in mind when you're developing right effort, is how much effort can I put into this at any one time?
+Now if you're feeling weak and you suddenly decide, tonight I've got the conviction I'm not going to get up from my meditation seat until I've gained awakening.
+That's not in tune with the amount of effort you can put in.
+So you've got to say, okay, what level of conviction is going to be appropriate for the level of energy I've got right now?
+Another thing you have to think about is how much energy do I have?
+The second thing you've got to think about is, given this particular problem I have in mind, how much energy does it require to solve that problem?
+Because if the Buddha points out one spot and we may have it in here, I've forgotten.
+I'll just tell you the story.
+There are some things that will go away from the mind if you just look at them.
+Some unskillful states don't really hang on much longer.
+You just look at them and they wither away.
+So you can just watch and they come and they go and that's it.
+Other unskillful states will not go.
+You look and you look and you look and they just don't go.
+They don't bunch. In which case you've got to do something about them.
+The Buddha says you have to fabricate a fabrication.
+In other words, you have to breathe in a different way.
+You have to think in a different way.
+You have to perceive things in a different way in order for that particular problem to go away.
+In other words, you use any one of those three kinds of fabrication.
+So that's another factor you have to keep in mind for right effort.
+And then the third factor, another factor you have to keep in mind,
+is the question of, as the Buddha says,
+you have to generate desire in order to do these things.
+Sometimes you know, okay, this is unskillful.
+I shouldn't be doing it.
+But what the hell?
+I want to do it.
+So how are you going to talk yourself out of it?
+You've been there.
+Well, we all have.
+And another time, as you know,
+I really should be sitting down and meditating tonight,
+but I don't really feel like it.
+And then the wisdom here is,
+how do you talk yourself into doing things you know are skillful,
+but you don't feel like doing?
+And how do you talk yourself out of doing things you know are unskillful,
+but you want to do?
+That's also an awful lot of wisdom goes into that.
+In other words, psyching yourself out,
+knowing how you can motivate yourself to do what's skillful
+and abandon what's not.
+So that right there, that's right effort involves all those different considerations.
+One, you've got different types of effort that can be applied.
+Either things should be let go, or they should be developed,
+or they should be prevented, or they should be maintained.
+And then you've got the question of the effort,
+the level of effort you can put in at any one time,
+one, depending on how much energy you've got right now,
+but two, also depending on what the problem is,
+whether it's going to respond to a lot of effort,
+only to a lot of effort, or if it's going to respond to just a little effort.
+And then finally, that question of how do you motivate yourself
+to do the right effort to begin with?
+All of that comes under the word ardency.
+Now, at this rate, we're not going to get through the material one.
+But it's important, and once we establish these terms,
+they're going to become relevant for the rest of the day.
+Now, alert here means being watching what's actually happening.
+A lot of people talk about mindfulness, what they're actually talking about is alertness.
+The word is sampajanya. Just being alert to what you're doing,
+alert to what the results are.
+And mindful is keeping in mind what's skillful and what's not.
+And also keeping in mind where you should keep your attention focused.
+And you have four places that you can do this.
+You can either focus on the body in and of itself,
+feelings in and of themselves,
+the mind in and of itself, or mental qualities in and of themselves.
+In other words, you watch them as events.
+You watch them as processes.
+Now, watching the body in and of itself,
+the polyphrase actually is,
+watching the body in the body,
+or watching feelings in feelings.
+In other words, you look at it on its own terms.
+Now, the body in the world would be,
+is my body strong enough for the work I've got to do?
+Is it good looking enough for the people I want to attract?
+Is it limber enough?
+You're looking at the body in terms of what you would like to do outside in the world,
+or what you would like to get outside in the world.
+That's the body in the world.
+The body in and of itself is,
+well, what do you have in a body?
+How do you directly experience your body?
+What is the body just as a body?
+And you want to maintain that level of reference,
+that's basically your frame of reference.
+You can use the body in and of itself,
+feelings in and of themselves.
+Mind states, mental qualities.
+The distinction between mind states and mental qualities,
+we'll be getting into this later,
+but a convenient analogy I like to think of is,
+a mind state, the mind is like a committee.
+You've got lots of different voices,
+lots of different desires,
+lots of different agendas going on.
+And a mind state is when the committee has come to a decision,
+we're going to do X.
+And so the whole mind is on it.
+And the mental qualities are the individual members of the committee.
+So you can look at either one,
+either when the mind has in a particular state,
+it's a unified state,
+or when you begin to break that unified state down into its elements,
+into its individual members,
+those would be mental qualities.
+Okay.
+For the faculty of concentration, we'll be coming back to that later.
+Let's, in the meantime, move on to passage six.
+Here the Buddha is talking about one of the functions of mindfulness
+in the practice of the path.
+Okay.
+One is mindful to abandon wrong view
+and to enter and remain in right view.
+This is one's right mindfulness.
+One is mindful to abandon wrong resolve
+and to enter, remain, and right resolve.
+To abandon wrong speech and to enter and remain in right speech.
+To abandon wrong action and to enter and remain in right action.
+To abandon wrong livelihood and to enter and remain in wrong livelihood.
+This is one's right mindfulness.
+So here again, the purpose of mindfulness here
+is to keep something in mind
+and to direct you in..
+If it's right mindfulness,
+it's to direct you into a skillful direction.
+So again, you're keeping these things in mind and for the purpose of directing you in a
+certain way.
+So again, mindfulness is not passive, just bare awareness.
+There's an agenda that's going on here.
+And it also has, it's keeping in mind the fact that you do want to abandon wrong view
+and to remain in right view.
+So again, mindfulness is a more active process than sometimes we're led to believe.
+And then the last passage in this particular section, sometimes you hear the definition
+of mindfulness as a broad, open state of mind that accepts everything into all the senses
+all at once and basically does not choose where it's going to keep its focus.
+Here, however, it's a very different picture of mindfulness.
+Suppose monks in a large crowd of people comes throwing it together, saying, the beauty queen,
+the beauty queen.
+And suppose that the beauty queen is highly accomplished at singing and dancing, so that
+even greater crowd comes throwing and saying, the beauty queen is singing, the beauty queen
+is dancing.
+Then a man comes along, desiring life and shrinking from death, desiring pleasure and
+abhorring pain.
+They say to him, now look here, mister, you must take this bowl filled to the brim with
+oil and carry it on your head in between the great crowd and the beauty queen.
+And a man with a raised sword will follow right behind you and wherever you spill even
+a drop of oil, right there he will cut off your head.
+Now, what do you think, monks?
+Will that man not paying attention to the bowl of oil let himself get distracted outside?
+No?
+I'm giving this parable to convey a meaning.
+The meaning is this, the bowl filled to the brim with oil stands for mindfulness immersed
+in the body.
+And this is one case where mindfulness is described as something very focused.
+What I find strange here is that the Buddha doesn't fill out the rest of the parable,
+i.e. the beauty queen would be the six sense objects, and the great throng that's coming
+and saying, the beauty queen is singing, the beauty queen is dancing, that's all the desires
+that you have for the objects and the senses.
+And the Buddha is basically saying, you've got to block out both sides.
+You can't let yourself get distracted, you've got to keep your mindfulness focused on this
+one spot.
+And as we'll see as we go through some of the other passages, the Buddha tends to talk
+an awful lot about mindfulness of the body as a basis for a sense restraint.
+There's a passage where the Buddha talks about six different kinds of animals.
+You've got a monkey and you've got an alligator and you've got a hyena, and I forgot what
+the others are, and they're all tied together with leashes.
+Now if they're not tied to a post, then whichever the animal is as strong as is going to drag
+all the other ones behind it.
+Whereas if they're tied to a post, then even though they pull and pull and pull, none of
+them is going to pull any of the others in another direction, they end up lying down
+right next to the post.
+And the Buddha's analogy there is that the mindfulness of the body stands for the post.
+As you go through the day, you want to keep your awareness centered in your body so that
+you can watch out for any pull in terms of lust or anger or whatever as you go through
+the day.
+You've got to keep your awareness in your body as one way of resisting the temptations
+or resisting the pull to go off and end your fantasies about sense subjects.
+So what we have here when the Buddha is talking about the word mindfulness is one, it's an
+ability to keep things in mind.
+That's the primary definition.
+And its function within the path is to remember what's skillful and what's not skillful so
+you can apply it to your present experience.
+Now in order to do that, the Buddha says it's good to remain grounded in some part of the
+present experience since it does not get pulled away by other things in your present experience.
+So it requires a focus.
+It requires a frame of reference that you want to keep in mind and you want to stay
+active.
+That Anupasi, you keep focused on, you keep following, it could either be the body in
+and of itself, feelings, mind states or mental qualities in and of themselves.
+So when the Buddha is talking about mindfulness, this is what he's talking about.
+It can be a quality that's either very focused or it can be very broad depending on your
+needs at a particular time.
+But it's got to keep in mind the fact that we're here to develop what's skillful and
+bounded and what's not, and then watch this over, it has kind of a monitoring factor.
+And so some of the unusual factors of this that you might not have heard of before is
+one, it helps you to judge what's skillful and what's not, because if we're not able
+to keep those standards in mind, you couldn't pass judgment.
+Now we can talk a bit about what's skillful judgment and unskillful judgment, but that's
+one of mindfulness's functions is to help you with judging what's skillful and what's
+not.
+And then secondly is to, it can be a very broad state, it can be a very narrow state.
+But primarily it's, it works in conjunction with the quality of art and see your right
+effort and alertness.
+The alertness is what keeps you in touch with what's actually happening in the present
+moment.
+And the mindfulness reminds you, well, given that this is what's happening, this is what
+should be done.
+Do you have any questions about that picture of mindfulness, right here?
+I'm confused.
+Okay.
+The phrase...
+Which are like, you can't be confused until the mic comes.
+No, I'm more confused.
+Mindfulness.
+Yes.
+In the phrase, keeping in mind, to what extent is that consciousness of, or is it that the
+mind, what's in memory, is a resource to be called on and that all these things that you've
+been addressing are not kept conscious, but are there as resources for the mind?
+The resources for the mind, it's the ability to remember.
+But there are some things that the Buddha would have you try to keep in mind all the
+time.
+I.e., is it skillful or not?
+So what exactly is the relationship between right effort and right mindfulness?
+It seems like right effort is a subset of mindfulness.
+In the path, right effort is listed first and then right mindfulness builds on that.
+It provides you a grounding for right effort because right effort essentially starts out
+with it's generating the desire to do what's skillful.
+Okay, once you've got that desire going, then you're going to have to have a good frame
+of reference so you can maintain that desire.
+And that's where right mindfulness comes in, is to help maintain that intention, maintain
+that desire.
+So they're right on the heels of each other in order to do it?
+Yes.
+And in fact, we're going to be looking at the last three factors of the path in detail
+in a moment.
+But one of the points I wanted to make is you start out with right effort and then right
+mindfulness basically includes right effort and adds a few things more to it.
+And then right concentration takes right mindfulness and adds a few things more to that.
+So it's not like you practice right effort for a year and then go to right mindfulness.
+One has to be right on the heels of the other today.
+And it also means that when you're doing right mindfulness, you're not abandoning right
+effort.
+As I was saying, there was this book I was reading recently where the author was saying,
+well, if you actually try to, he was saying that basically mindfulness is bare awareness
+of things and acceptance, okay?
+Something unskillful comes up in the mind, you learn to accept it, watch it.
+And he says, if you try to get rid of it, that's not mindfulness, that's right effort,
+it's a different path.
+And you say, what?
+They're supposed to work together and they're not separate paths.
+So given that you're starting with right effort, then as soon as you see something as you're
+in the practice of developing more mindfulness, as soon as you see something as unskillful,
+then you can call to mind, okay, what do you do with this unskillful quality?
+And then you work on that.
+Now you take the body as your frame of reference as kind of your basic, your dwelling place
+so that you can have these things at your fingertips.
+A little bit about fabrications and mindfulness is you say that you develop fabrications or
+you create fabrications because you want to use them.
+So are we talking about being mindful of whether this is a good fabrication, a useful fabrication,
+a skillful fabrication, is that it?
+It comes first.
+I mean, especially if you're talking in terms of karma affecting the fabrication.
+Why do they have to come first?
+Well, it seems like you're acted on by all kinds of things to create your fabrications.
+F fabrications come from the unconscious, maybe neurotic or maybe not neurotic impulses.
+So why not stop doing the bad ones?
+Okay, well, one is you have to learn how to recognize what the bad ones are.
+And two, you have to have the desire to get rid of the bad ones.
+And that's a lot right there.
+That's a lot right there.
+And that's the mind.
+Well, no, that's, and then you want to remember that desire because a lot of unskillful behavior
+goes on when we block things out, when we go into what I call the no karma zone, when
+you've got this desire that you want to do something and you know the Buddha said, you
+don't want to do that.
+And there is no Buddha in the world, you know, there is no karma in the world.
+What am I going to do right now has no, it's going to have no karmic effects.
+That's what you tell yourself.
+And that's a real gap of mindfulness.
+You have forgotten everything, you just kind of blocked out that memory.
+And so that goes on all the time.
+And so what we're trying to do is stop blocking the memory of what skillful and what's not.
+And that we really do want to behave in a way that's going to be for ultimately our
+long-term welfare and happiness.
+So that's what fabrication is saying, I'm going to do this no matter what.
+So you've got, mindfulness is also a fabrication.
+You're trying to develop, keeping something in mind requires an act of fabrication.
+But it's skillful fabrication.
+Because you have to realize when you're working on the path here, and on the one hand it sounds
+like it's almost impossible because you've got all these different factors that would
+have to come together all at once.
+But we already have different elements of the path operating in our lives already.
+I mean, there are many areas of your life where it's very easy to be, to keep in mind
+the fact that you want to do it skillful and you don't want to, you want to abandon unskillful
+things.
+And those, in those cases, the question of mindfulness is not really that much of a problem.
+It's almost automatic.
+Many of the things that you like to do and you're skillful at, no problem.
+It's when you run up the areas where, okay, I know this is unskillful, but I like it,
+or I know this is skillful, but I don't want to do it, and then the mind starts forgetting.
+And so what we're trying to do is develop the skill that you have in being mindful in
+other areas and start applying it over here as well, kind of expand the range.
+This is one of the reasons why the Buddha says, try to keep the body and mind because
+that becomes your kind of, your marker.
+I have a student who, after spending a while at the monastery, just robed, and he wanted
+to get as far away from Buddhism as possible.
+It was one of those, you know, I'm out of here at just robings.
+And then as he said to a friend later, he says, but everywhere I go, there's my breath.
+I can't get away from it.
+So this is why the Buddha wants you to use the body as a frame of reference, because
+once you get used to thinking about skillful things, when you're in touch with the sense
+of the body, then from that point on, when you're in touch with the sense of the body,
+those issues are going to be right there.
+It's kind of a memory aid.
+I'm having difficulty understanding how one can be discerning, while at the same time
+not being judgmental.
+Sometimes I joke, well, if you're discerning, you'll say, you'll call it unskillful.
+If you're judgmental, you'll say, it's bad.
+But I want to understand it.
+Okay.
+You have to use your powers of judgment if you're going to be on the path.
+In other words, judgmental is usually used in cases where someone is passing judgment
+before they have enough information to create passive wise judgment.
+Back up again.
+Okay.
+Judgmental is for when you pass a judgment, when you don't have enough information for
+making a valid judgment.
+Which means that there is such a thing as a valid judgment.
+It's simply that it requires that you take the time to get enough information in.
+And then two, notice, okay, what is it skillful to judge and what is it not skillful to judge?
+It's skillful to judge mental qualities, it's skillful to judge behavior.
+It's not skillful to judge people.
+Or at least not to, it's not skillful to pass final judgment on people.
+This is one area where I think Buddhism has a leg up over Christianity.
+Christianity has final judgment, or Buddhism doesn't.
+And so if even the Buddha is not going to pass final judgment on people, what right
+do we have to pass final judgment on people?
+One other thing that I think is useful to keep in mind when you're talking on the topic
+of judgment is to think about the different settings where we kind of imagine the judgment
+is taking place.
+Like there's a judgment of a judge on a bench passing judgment, okay, are you guilty?
+Are you non-guilty?
+If you're guilty, we're going to send you to prison.
+There's an either or kind of quality, and it's a final judgment on a particular activity
+that was done.
+You can also, though, think of the judgment that, say, a carpenter uses when he or she
+is working on a desk of drawers, a set of drawers.
+Okay, you're going along and you're working on the drawers, and all of a sudden you realize
+whoops, I shouldn't have shaved that off.
+Okay, then you back up.
+Okay, now that I've shaved it off, what do I do?
+Shave off the other side.
+Make it look balanced.
+Whatever.
+But you're basically, you're judging a work in progress, and that kind of judgment is
+very useful.
+Here it comes.
+Okay, let's see if I got this.
+So right effort is the cultivation of the desire to skillfully abandon or cultivate.
+But mindfulness is the monitoring process that directs us or helps us to judge whether
+what we're about to do is skillful or unskillful.
+So it's the remembering the desire to be skillful, remembering right effort.
+And also remembering right view of the lies behind it.
+And then applying the skillful judgment of, is this about to be skillful effort for applying?
+Just a comment then.
+This reminds me of the Sutta that says, right view, right effort, and right mindfulness
+run and circle around you to the others.
+Is that what you're referring to?
+Exactly, yes.
+Because they have to, they all support one another.
+In another tradition of Taoist teachers said, judgment is putting value and you have discernment
+contrast.
+And the judgment is you put a value and you invest your chi in it.
+That would, if I translate that here, that means desire, craving here, you're taking
+discernment and then desire, I guess.
+And the Buddha does have a role for right desire in right effort.
+Because that's one of the terms when we get into the definition of right effort.
+You generate desire, endeavor, and activate your persistence.
+So the Buddha is not saying that all desires are bad.
+Because he's saying, I mean, there's a sort of an assumption that we have, especially
+in modern western psychology, is you've got facts out there and then people apply values
+on top of the facts to distort them.
+Whereas from the Buddhist point of view, you're going out there and you've got your values
+already in line.
+And so instead of thinking that there are purely objective facts out there, he's saying,
+what are the values that you're bringing to the situation?
+Are you bringing skillful values or are you bringing unskillful values?
+Only for the purpose of putting an end to suffering.
+And so he's going to say, you want to bring skillful values.
+Ultimately you get to the point where you're not going to get involved in the senses at
+all.
+That's the only place where there's totally no desire.
+So in the meantime, as long as you're involved in sensory experience, try to bring skillful
+desires.
+I mean, kind of the analogy might help make this distinction clear.
+A lot of us think, you know, say there's something really beautiful out there and all of a sudden
+we start feeling lost for it.
+Say, well, you know, there was no lost at all and all of a sudden this beautiful thing
+came in.
+Boy, the lost, the rise.
+From the Buddhist point of view, the lost was looking for something, you know, and then
+just found somebody to latch on to, you know, or it's like the people who turn on hate radio.
+It's not just, you know, I'm totally past, I'm going to turn on and see what's on the
+radio today.
+No, they want the hate radio.
+They want something to get angry about.
+So that's the image that the Buddha is working with here.
+Okay.
+Let's move on.
+I had one little extra quote here about mindfulness as being focused rather than broad or sometimes
+a focused quality.
+Just as when a person whose turban or head was on fire would put forth extra desire,
+effort, diligence, endeavor, earnestness, mindfulness, and alertness to put out the
+fire on his turban or head, the same way you should put forth extra mindfulness, excuse
+me, extra desire, effort, diligence, endeavor, relentlessness, mindfulness, and alertness
+for the abandoning of unskillful, evil qualities that ever isn't in the mind.
+So again, sometimes mindfulness can be very focused and very intense.
+It does not always a wide, broad, open quality.
+Okay, let's look at the definition of the factors of the path.
+Last three factors of the path.
+Okay, just to refresh your memory here.
+What is right effort?
+The workplace where one generates desire, endeavors, activates persistence, upholds
+and exerts his intent for the sake of the nonarizing of evil unskillful qualities of
+not yet arisen, similarly generates desire, etc., for the abandoning of evil unskillful
+qualities of haverism.
+You generate desire, etc., for the sake of the arising of skillful qualities of not
+yet arisen, and you generate desire, etc.
+For the maintenance, the nonconfusion, the increased plenitude, development, and culmination
+of skillful qualities that have arisen, that is called right effort.
+So again, the element of discernment that's involved here in right effort is, one, distinguishing
+what's skillful and what's unskillful, two, noting that the different types of right
+effort that could be appropriate at any one particular time.
+And then the whole issue of learning how to generate your desire to do these things
+properly.
+And then on top of that, then there's the question of what is the proper amount of effort
+to apply, which is determined on the one hand by the amount of energy you have and to what's
+appropriate for that particular issue.
+Any questions on right effort before we move on?
+OK, right mindfulness.
+This case where the monk remains focused on the body in and of itself, art and alert,
+mindful, putting away greed and distress with reference to the world, remains focused on
+feelings in and of themselves, mind in and of itself, mental qualities in and of themselves,
+putting away greed and distress with reference to the world, that's called right mindfulness.
+OK, we've covered that already.
+And here's my right concentration.
+Now what I've done here is, into the definition of the path factors I've inserted in italics,
+the analogies that are usually used to describe right concentration.
+OK, what is right concentration?
+There's the case where a monk, quite secluded from sensuality, secluded from unskillful
+mental qualities, enters and remains in the first jhana, rapture and pleasure born of
+seclusion accompanied by direct thought and evaluation.
+OK, let's stop there for a minute and go along.
+Sensuality.
+Let's go through the terms.
+Sensuality here means sensual desire.
+And you'll see this translated as secluded from sensual pleasures, which sounds like
+you would have to go into a prison in order to get into the jhana.
+OK, you're just not focused on, you can be in a very pleasant place, but you're not focused
+on your sensual desires.
+You should put aside your sensual desires for that point.
+Secluded from unskillful mental qualities, this would be, there's a passage that we'll
+encounter later, but I can tell it to you now.
+Wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort and
+wrong mindfulness.
+OK, you're not bothered by any of those wrong path factors.
+You enter and remain in the first jhana.
+The word jhana here is related to the verb jayati.
+The verb jayati can mean either to be absorbed in something or for a fire to burn.
+It's a homonym.
+And the burning of the fire is a very particular kind of burning.
+It's the burning of an oil lamp, in other words, a steady flame.
+Ordinary fires, they have a different word for burning, but for an oil lamp, it's a steady
+flame.
+So that's the kind of quality you're trying to get in the mind, it's that steadiness and
+clarity of a steady flame.
+OK, here is what you have in the first jhana.
+You have rapture and pleasure, born of seclusion.
+In other words, because you're secluded from these unskillful mental states, there's a
+sense of rapture, the word, probably word rapture, biti, can also mean refreshment.
+If you're really refreshed, you're not weighed down by unskillful states.
+And there's a sense of pleasure.
+In other words, sukha here can also mean ease, can mean bliss, can mean well-being.
+Accompanied by direct of thought and evaluation.
+Remember those two terms?
+Direct of thought and evaluation?
+It's verbal fabrication.
+Direct of thought here is when you keep reminding yourself to stay with the object, and evaluation
+is when you evaluate it.
+This is a good object.
+Is it comfortable?
+Is the mind settling down?
+Is it not settling down?
+In other words, you ask your questions about what you're focused on.
+Now, when we're focused on the breath this morning, I asked you to ask yourself the question,
+is the breath comfortable?
+What could be done to make the breath more comfortable?
+That's evaluation.
+So, in that case, sticking with the breath, that would be your direct of thought.
+And then the questions you ask about the breath, particularly if it's comfortable or not, and
+then when there is a sense of comfort, what do you do with it?
+When you spread it to make it more intense, to make it more all-encompassing, that would
+qualify as evaluation.
+Now, notice here, you're absorbed in one object, and these other qualities sort of adhere around
+the object.
+It's not like you've got five objects in the first chana.
+You're not trying to focus on the breath, and on the pleasure, and on the rapture.
+No, these other things.
+The breath is your main focus, and then you're working with these other qualities around
+the breath.
+Okay, once that rapture and pleasure have arisen, then this is what the Buddha says.
+You do with it.
+You permeate and pervade, suffuse and fill this very body, excuse me, with a rapture
+and pleasure born of seclusion.
+Notice as if a skilled bathman or bathman's apprentice would pour bath powder into a brass
+basin and knead it together, sprinkling it again and again with water, so that his ball
+of bath powder, saturated, moisture-lating, permeated, within and without, would nevertheless
+not drip.
+Even so, you penetrate this very body with a rapture and pleasure born of seclusion.
+There's nothing of your entire body unpervaded by rapture and pleasure born of seclusion.
+Does that sound nice?
+Notice the implication here is that you have a very full body awareness.
+You focused on the breath, and you've got that sense of rapture and pleasure spread
+it out throughout the body.
+That's what direct-of-thought and evaluation do, is they help spread things out.
+That's the first genre.
+Second genre.
+With the stealing of direct-of-thoughts and evaluations, you enter and remain in the second
+genre, rapture and pleasure born of concentration, unification of awareness free from direct-of-thought
+and evaluation, internal assurance.
+In other words, you've gotten so still with a breath that you don't have to keep reminding
+yourself to stay there, and the breath is so comfortable, you don't have to evaluate
+it anymore.
+You just stick with the breath as it is, and then the mind becomes more concentrated.
+This is unified.
+The different ways of interpreting the unification here, here I would interpret unification here
+meaning that your sense of your awareness and the object become one.
+Your mind is one with the breath.
+In the first genre, there's a sense of the awareness sort of standing outside the breath
+and working with it, and then once the breath gets really, really good, you're just going
+to go into the breath and become one with it.
+You permeate and pervade, suffuse and fill this very body with a rapture and pleasure
+born of concentration, just like a lake with spring water welling up from within, having
+no inflow from the east, west, north, or south, and with the skies supplying abundant showers
+time and again, so the cool font of water welling up from within the lake would permeate
+and pervade, suffuse and fill it with cool waters, there being no part of the lake unpervaded
+by the cool waters, even so the monk permeates this very body with a rapture and pleasure
+born of concentration.
+There's nothing of your entire body unpervaded by a rapture and pleasure born of concentration.
+The image here is, you notice that there's no conscious agent working here in the image,
+it's just the water, it's just naturally flowing up.
+So you don't need the direct of thought and evaluation to work with things anymore, it's
+just kind of naturally there, the process keeps coming, and as it says, the rains keep
+falling and so there's no end to the spring of water coming up within the lake.
+Third jhana, with the fading of rapture, you remain a chronomous, mindful and alert.
+Notice that mindfulness is right there in the definition of the jhana, and you sense
+pleasure with the body.
+You enter a main and third jhana, in which the noble ones declare an equanimous and mindfully
+has a pleasant body.
+In other words, the mind is very equanimous here, but there is a good sense of pleasure
+in the body.
+The sense of rapture, that sense of fullness and refreshment at this point is becoming
+so gross that you don't want it anymore.
+In other words, your sensitivity has gotten so refined at this point that even the activity
+of rapture becomes undesirable, and so you let it go.
+But there still is pleasure that you sense with the body.
+The image here follows, you permeate and pervade, suffuse and fill this very body with a pleasure
+divested of rapture.
+Just as in the lotus pond, some of the lotus is born and growing in the water, stay immersed
+in the water and flourish without standing up out of the water, so that they are permeated
+and pervaded, suffused and filled with cool water from their roots to their tips.
+Nothing of those lotuses would be unpervaded with cool water.
+Even so, you permeate this very body with a pleasure divested of rapture.
+There's nothing of your entire body unpervaded with pleasure divested of rapture.
+The difference in the analogy here is that the water is still, and you've got those
+lotuses that are just standing still in the water, and it's cool and nice, and they're
+the greater sense of stillness.
+In the analogy for the second jhana, there was a sense of flowing which would correspond
+to the rapture.
+Here the rapture has stilled.
+And then finally with the fourth jhana, the abandoning of pleasure and pain is with the
+earlier disappearance of elation and distress.
+You enter and remain in the fourth jhana, purity of equanimity and mindfulness, neither
+pleasure nor pain.
+You sit permeating the... it's only here that mindfulness becomes pure, both equanimity
+and mindfulness become pure in here in the fourth jhana.
+So even in the basic definitions of right mindfulness and right concentration, the qualities
+are intertwined, because of right mindfulness you have that quality of keeping track of
+something or to remain focused on something, and here that quality of mindfulness gets
+more and more purified until you hit the fourth jhana, when you hit the fourth jhana.
+So the analogy here is different.
+You sit permeating the body with a bright, pure bright awareness, just as if a man was
+sitting covered from hand to foot with a white cloth, so there'd be no part of the body to
+which the white cloth did not extend, even so that you sit permeating the body with a
+pure bright awareness.
+There's nothing of your entire body unprovaded by pure bright awareness.
+This is called right concentration.
+Here the analogy goes to... from the water, it goes to the brightness of the awareness
+that fills the body.
+So notice here, when you're talking about right concentration, it's not just one-pointed,
+it's... your awareness fills the body, your sense of conscious awareness fills the body.
+It's all very still, very equanimous, very mindful.
+So is there still awareness of the breath?
+At this point in the fourth jhana, the in and out breath doesn't happen.
+It stops.
+In fact, that's one of the defining points for the fourth jhana, is the fact that the
+breath has stopped.
+Now the question is, are you going to die, and the answer is no.
+What happens is, and I've heard different reactions to this, but you actually do have
+some oxygen exchanged at your skin, and when the activity in the brain goes down, you need
+less and less oxygen, so you get to the point where the oxygen that you get from the skin
+is enough.
+Now they say they've done scientific experiments where they block up your nose and block up
+your mouth, and people pass out.
+Well, that's because, how would it feel to have your nose and mouth blocked up?
+Would your mind go to a very still state where it didn't require a lot of oxygen?
+No.
+So I'm not all that convinced by that experiment.
+The experiment I am convinced with is something they do in Laguna Beach every year, which
+is they put on something called the Pageant of the Masters.
+Have you heard of this?
+I mean, it's pretty cheesy, but what they do is, they've got this big revolving stage,
+and then they depict different famous paintings or different famous sculptures, and they discovered
+that, say, you go down to the beach and you get somebody really good looking and you put
+them up on the stage.
+Okay, you're going to be David.
+We're going to cover you with white makeup, and David stands up there, and if they make
+the mistake of covering David with white makeup all over his body, he faints, he's not getting
+the oxygen he needs through his skin.
+So what they've learned is that they have to have a big blank spot in his back where
+you can still get oxygen through his skin.
+Because you have the unedifying spectacle of David standing there and just keeling over.
+So in the fourth jhana, there is no experience of the in and out breath.
+Yes, question here.
+Let's get the traveling mics.
+Is it on?
+Yes.
+Okay.
+So in and out breath, and you said with that earlier, you said that that means that there's
+no sensual activity.
+You know, what it means is that you're going to begin to lose your sense of the boundary
+of the body.
+So you're still aware of the body at that point?
+You're still aware of the body, but the sense of having a clear boundary begins to dissolve.
+Okay, thanks.
+Is there any significance to the fact that the Nova Ones only have something to declare
+on the third jhana?
+I have no idea why that's.
+No questions on jhana?
+Yes.
+We don't need this much of concentration at the end of the day.
+We don't need this much of concentration like at the absorption.
+You need at least the first jhana.
+I mean, it's a factor of the path.
+In the Buddha, I know you probably know the story of the Buddha's quest for awakening.
+You're going through all those years of austerities, and the austerities didn't work.
+And then you finally stop to think, well, could there be another way?
+And you remember the time when as a child, he'd entered the first jhana sort of spontaneously.
+And then the question arose, could this be the path?
+And the awareness came, yes, this could be the path.
+And so what that means is although eight factors of the path, jhana was the first factor to
+be discovered.
+And then the other eight factors sort of were later clarified around that.
+But all the Buddha, and this is going to be one of the points of today's discussion,
+is that every time the Buddha talks about awakening, there has to be a certain level
+of concentration, at least the first jhana, in order to qualify.
+Now, a lot of the controversy has come around, as I said earlier, it's come about because
+the commentary defines the jhana's intensities, really intense trances, which are very difficult
+to get into and very difficult to maintain.
+Whereas what the Buddha is talking about here is breathing comfortably, a sense of ease,
+and you just really focus there on the breath, and you're fully absorbed in the sense of
+ease and comfort that come with the breath, that steady focus.
+And then there's a sense of ease that you then use to permeate and fill the body.
+So it's a very easeful, very sort of body, full body awareness kind of state.
+That's necessary.
+Yes.
+What about the awareness of sound in the jhana's?
+When does it drop away, or does it?
+Okay, it does not have to drop away.
+The only time they discuss sound as dropping away, there's a passage where Mogulana talks
+about how when he's in the formless jhanas, he can still hear sounds, and the monks get
+upset.
+He's claiming to have more than he's actually attained.
+And so they ask the Buddha about this, and he says, well, he's not questioning Mogulana's
+attainment, he says, but simply the attainment was impure.
+So a pure attainment of the formless jhanas would entail sound dropping away.
+But it's not part of the definition of the four jhanas.
+Daniel, pass it on.
+In this way of talking about the jhanas, how would you describe access concentration?
+Access concentration is a term from the commentaries.
+I would define it as a state where you've basically dropped your involvement with your
+sense of kind of the world around you.
+And it's not that it's not there, it's just not paying attention to it.
+But you haven't fully gotten into a good, strong, steady concentration.
+The easiest way to sense it is, the state you get into and you're kind of drifting,
+and you come out and you say, wait a minute, where was I?
+That's access concentration.
+Because in jhana, you know where you are.
+You're with a breath, and you're clearly with a breath.
+Whereas in access concentration, there's this kind of vague sense, so I'm not really sure
+where I am.
+You can space out from that.
+You can space out pretty easily.
+The other question is, when you talk about the jhanas in this way, would you say that
+there are different levels, say, of the first jhana?
+In my practice, I experience what seems to map to this description of the first jhana,
+but I could say that there's a weak experience of that and a very strong experience of that.
+It's quite a range.
+I found that when you're teaching people concentration like this, it's very difficult
+to know exactly which state of concentration they're in until they get to the point where
+they say, okay, the breath stopped, and they know the breath stopped.
+Because I've also had cases where they said, the breath stopped, and then they come back
+a week later, oh no, I hadn't really stopped because I got something deeper where it really
+stopped.
+And I know, maybe you have six jhanas.
+Other people will experience their minds settling down in different ways.
+The important thing is not so much which jhana you're in.
+The important thing is, okay, once you've got there, what do you do?
+And then what do you do?
+That's going to be the topic for this afternoon.
+But briefly, you get in to say the concentration you want to be able to maintain it, whatever
+it is, and then ask yourself the question, okay, is there still any stress?
+Is there still any instability in this?
+And if you see any instability, okay, what can we do to make it more stable?
+If there's any stress, and usually in a subtle state like this, the only way you're going
+to see stress is to see it coming and going.
+And when you sense that the level of stress has gotten stronger, ask yourself, okay, what
+did I do just now to cause that increase in the level of stress?
+And when the level of stress falls down, okay, what did I just do so that we fell away?
+Because otherwise you start getting into, you know, hey, I've got the second jhana.
+You don't have the second jhana.
+Or the jhana hoops thing, okay, yesterday class we did the first jhana, today we're
+going to do the second jhana.
+The other question was around the perception of the breath stopping.
+I've had an experience or experiences when I was doing walking meditation where it was
+like there was no perception of the breath, but I didn't feel like I was in a particularly
+concentrated state.
+It was sort of like blanking out of the parts of the body that didn't seem like, there didn't
+seem to be any bodily awareness or just strong awareness of this big blank.
+So I was just curious about that.
+Okay, why your movie?
+You can't really tell whether the breath is coming in or not.
+Well, it just seemed like there was sort of, I mean, it seemed like there was a sense of
+like, I mean, I knew I was breathing, but there's just sort of a feeling of like some
+part of the body missing, like there's a blank or not feeling like, you know, a comfortable
+set of concentrations and there's a real sense of like the body being full and so it was sort
+of like that.
+It didn't seem like it was a sort of unpleasant in a way.
+I was just curious.
+Okay, again, the fact that you've got so much movement going on while you're walking, you
+can't really tell whether the breath is coming in or not.
+And then if part of the body is blanked out, then you don't know what's happening in that
+part of the body.
+Yes?
+Are trans states unskilled for?
+Well, there's trans states and there's trans states.
+Like when you're just totally blanking out.
+It depends on what you're using it for because my teacher was telling me about this one time
+when I started hitting some trans states in my meditation.
+First thing he asked me is, he told me, don't think it's nirvana, okay?
+It's as long as you know it's not nirvana, you're okay because there are some places
+where they will teach you, you hit this particular trans state after such and such levels of
+insight, you know, insight knowledges, okay, then it's what they call it, it's experience
+of cessation and they call it a noble attainment.
+It's not, it's just a trans state.
+But you can use it if you know how to get in and how to get out.
+In my teacher's case, I think I mentioned this here before, he had to go in for an operation
+on his kidneys.
+And you know, you hear stories about people waking up in the middle of an operation and
+you know, the doctors don't know that they've woken up and they feel the pain because the
+anesthesia has gone off but you can't move, you can't say anything because the anesthesia
+is still preventing you from moving.
+And it sounds like hell on earth, right?
+And so he didn't trust the anesthesiologist, so he put himself into this state before he
+went in for the operation.
+And one of the neat things about this state is you can determine beforehand when you're
+going to come out.
+If you want to come out at 2 p.m., okay, you go in and boom, 2 p.m. you come out.
+And so he asked the doctors, how long is the operation going to take?
+And so they told him.
+And he gave himself an extra half hour just in case.
+And so he comes out and he finds himself on the hospital dolly being wheeled back into
+the operating room.
+Apparently they had sewed him up wrong.
+And so boom, he goes back in.
+So I mean, in a case like that, it'd be skillful if you just want to avoid the pain.
+But as long as you know that it's not a noble attainment, that it's not part of the right
+path, you're okay.
+Any other questions on Jhana?
+I was just curious if you could comment a little bit on the sort of difference between
+this conception of Jhana and what, say, Ajahn Brahm is teaching about.
+I don't want to talk about Ajahn Brahm.
+Okay, I mean, the obvious one is that you're aware of the body.
+And this particular one, as we'll see later, actually allows you to analyze the state of
+Jhana while you're in it, which is one of the ways you can get awakening.
+And the analogy I would give is it's almost like you put your hand fully into a glove
+and then you pull out a little bit so your hand is still in the glove, but it's not fully
+immersed in the glove.
+You actually can slightly pull out of the state of Jhana and start analyzing it.
+Or one way you can think of it is when you're analyzing states beyond the first Jhana, it's
+like kind of a first Jhana state piggybacking on a second or third or fourth Jhana.
+And you can actually notice, okay, where is their stress in here?
+Where is their inconsistency, stress, not self?
+And you can actually analyze it there.
+And from there, you can gain the insight that would actually lead to awakening, the sense
+of dispassion that would lead to awakening.
+Whereas if you're totally blanking out and you have no sense of your body, you can't
+analyze anything at all.
+There's no thinking possible in that state.
+So those are the main differences.
+Anything else?
+In terms of access concentration and actual absorption concentration, is it correct that
+the hindrances are fully not present or they're not present in Jhana, but still are active
+in access?
+Access concentration has a possibility for delusion.
+What about, when you say delusion, do you mean?
+There's a question, is that you're not fully sort of in your object of concentration.
+And it's very easy, as Jeff over here said, it's very easy to space out, to lose focus.
+And again, we're talking about a set of terms that are not in the canon.
+But sort of the best practical definition I've heard of these different terms is, you've
+got momentary concentration, access concentration, and fixed penetration.
+In momentary concentration, it's like the concentration you have when you're listening
+to somebody talk or you're reading something, it lasts for a while and stops, and they pick
+it up and it stops and pick it up and stops.
+This one teacher said momentary concentration cannot withstand pain, and we're talking about
+pain even though it's subtle things, boredom, but also any kind of unpleasant experience.
+Once you hit something you don't like, you're off, you hit something you don't like, you're
+off.
+Whereas access concentration, you can actually work through that, whatever the pain or the
+boredom or whatever, you can work through it.
+So it becomes steadier.
+But access concentration, he says, cannot withstand pleasure.
+If you hit pleasure, you just go with the pleasure and you're gone.
+And so when you get into that state, then you've got to give your mind work to do with
+the pleasure, basically.
+This is why the Buddha says, okay, you know, spread the pleasure with the different parts
+of the body to permeate it.
+Do something that keeps the mind active enough so that it can get past that sense of just
+kind of dissolving into the pleasure and disappearing into it.
+And then when you get fixed penetration or pain, it can withstand pleasure, it can withstand
+no problems.
+It's solid.
+So one of the ways that I understand, Shana, is that the hindrances actually go into abeyance
+and the genetic factors arise and that would be the determination whether you were in the
+access or in the Shana.
+Well, again, with an access concentration, the only hindrance that would really hit you
+there would be one near the attraction of pleasure and the other would be the delusion.
+Your attraction to the pleasure.
+But the pleasure here is not a sensual pleasure, so it doesn't count as a hindrance.
+So, should that mean things like restlessness and aversion wouldn't...
+They wouldn't be there.
+Right.
+They wouldn't be there.
+Okay.
+Just one brief comment before we break for lunch.
+The pleasure in John is called a pleasure of form.
+It's the pleasure of the body experienced within itself.
+It's not a sensory pleasure, it's a pleasure through the senses.
+So when we talk about the hindrance of sensual desire, that doesn't apply to the desire you
+may feel for the pleasure that comes from having a sense immersed in the body.
+But it is...
+I sometimes hear teachers saying, okay, when you've been with the breath long enough and
+you've reached this particular level of concentration, then you abandon the breath and just go for
+the pleasure.
+And that's going to get you into access concentration and kind of pull you off.
+Pull you away.
+So, should we break for lunch?
