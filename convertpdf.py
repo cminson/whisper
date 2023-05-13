@@ -9,6 +9,7 @@ import PyPDF2
 
 PATH_PDF_ARCHIVE = '/Users/Chris/Documents/PDF.ARCHIVE'
 PATH_TRANSCRIPTS = './transcripts'
+PATH_TRANSCRIPTS = './pdf'
 
 list_pdfs = os.listdir(PATH_PDF_ARCHIVE)
 for pdf in list_pdfs:
